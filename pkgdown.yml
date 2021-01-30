@@ -3,7 +3,7 @@ pkgdown: 1.6.1
 pkgdown_sha: ~
 articles:
   install-brms: install-brms.html
-last_built: 2021-01-27T10:47Z
+last_built: 2021-01-30T10:27Z
 urls:
   reference: https://stefanocoretta.github.io/bayes.handson/reference
   article: https://stefanocoretta.github.io/bayes.handson/articles
